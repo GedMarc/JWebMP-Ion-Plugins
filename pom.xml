@@ -10,7 +10,7 @@
     <artifactId>jwebmp-plugins-ion-parent</artifactId>
     <packaging>pom</packaging>
 
-    <name>Bootstrap Modules</name>
+    <name>Ion Framework Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
     <profiles>
