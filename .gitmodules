@@ -1,0 +1,6 @@
+[submodule "IonRangeSlider"]
+	path = IonRangeSlider
+	url = https://github.com/GedMarc/JWebMP-Ion-Range-Slider.git
+[submodule "IoniconsPlugin"]
+	path = IoniconsPlugin
+	url = https://github.com/GedMarc/JWebMP-IoniconsPlugin.git
