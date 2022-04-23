@@ -18,8 +18,11 @@
         <profile>
             <id>enable-plugins</id>
             <modules>
+			<!--
                 <module>IoniconsPlugin</module>
                 <module>IonRangeSlider</module>
+				
+				-->
             </modules>
 
         </profile>
